@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       name: 'LeetCode',
-      url: 'https://leetcode.com/u/jalaj1973/',
+      url: 'https://leetcode.com/u/Jalaj11/',
     },
   ],
 
